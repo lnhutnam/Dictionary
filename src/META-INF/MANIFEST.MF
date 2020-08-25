@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: vn.edu.hcmus.fit.sv18120061.seminar.collections_generics.scr
+ eens.MainFrame
+
