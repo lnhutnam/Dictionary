@@ -1,5 +1,19 @@
 # Dictionary
 
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![Apache License][license-shield]][license-url]
+
 ## BÀI TẬP GENERICS AND COLLECTIONS
 
 1. Yêu cầu
@@ -16,10 +30,10 @@ o Thống kê tần suất tra cứu các từ đã tra từ ngày Date1 đến 
 Date2. Ví dụ: từ ngày 8/3/2018 đến 22/3/2018 chỉ tra các từ: you,
 university thì bảng thông kê sẽ là: <br>
 
-| Từ  | 8/3/2020 - 8/3/2020  |
-|---|------|
-| you  |  9 (lần) |
-| university  |  11 (lần)   |
+| Từ          | 8/3/2020 - 8/3/2020  |
+|-------------|----------------------|
+| you         |  9 (lần)             |
+| university  |  11 (lần)            |
 
 (có thể thống kê bằng danh sách hoặc sử dụng control khác, không cần vẽ table như Word)
 
@@ -46,3 +60,17 @@ Deadline: 17 ngày sau ngày seminar (14/5/2020 đến 31/5/2020).
 
 - IDE: Jetbrain Intellij IDEA
 - Java (JDK 11) với giao diện đồ hoạ (Java Swing)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/nhutnamhcmus/Dictionary?style=flat
+[contributors-url]: https://github.com/nhutnamhcmus/Dictionary/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/nhutnamhcmus/Dictionary?style=flat
+[forks-url]: https://github.com/nhutnamhcmus/Dictionary/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/nhutnamhcmus/Dictionary?style=flat
+[stars-url]: https://github.com/nhutnamhcmus/Dictionary/stargazers
+
+[license-shield]: https://img.shields.io/github/license/nhutnamhcmus/Dictionary?style=flat
+[license-url]: https://github.com/nhutnamhcmus/Dictionary/blob/master/LICENSE
